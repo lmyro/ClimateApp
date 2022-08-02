@@ -1,5 +1,5 @@
-# Devops Example Project
-
+# Devops CA2 Climate Project
+# Louise and Dawn
 # Project Dependencies
 1. Node.js
 2. Truffle
@@ -14,4 +14,3 @@
 2. Run the npm start command to run the project
 
 ***
-
