@@ -4,5 +4,8 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #f28500;
+}
+a:hover{
+  color: #e2c8aa;
 }
